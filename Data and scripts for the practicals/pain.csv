@@ -1,0 +1,31 @@
+id;t;y;sd;n;rob;indirectness
+121305;Opioid  high potency;-23;18;302;2;1
+121305;Opioid  low potency and Opioid  high potency;-25;18;119;2;1
+121398;Opioid  high potency;29;17.36;60;3;2
+121398;Opioid  high potency and Antidepressant;23;17.36;60;3;2
+121516;NSAID;3;33.9411255;18;2;2
+121516;Opioid  low potency;27;33.9411255;18;2;2
+121516;Placebo;54;25.45584412;18;2;2
+121518;Opioid  low potency;-80;53.33333333;30;1;1
+121518;Cannabinoid;-78.33333333;55;30;1;1
+121518;Placebo;-36.66666667;43.33333333;30;1;1
+121519;Opioid  low potency;44.66666667;39;30;3;3
+121519;Opioid  low potency and NSAID;44.33333333;37.33333333;29;3;3
+121519;NSAID;49.33333333;44.33333333;29;3;3
+121705;Opioid  low potency and NSAID;-55.6;11.5361421;39;1;1
+121705;NSAIDandAntidepressant;-55.7;12.62696133;42;1;1
+121705;NSAID;-61.5;11.38212383;36;1;1
+121707;Opioid  high potency;40;30;20;2;1
+121707;Opioid  low potency;37.5;32.5;20;2;1
+122315;Opioid  high potency;-25.6;15.5241747;33;2;1
+122315;Opioid  low potency and Opioid  high potency;-29.1;14.35130656;34;2;1
+122354;Opioid  high potency;40.7;17.59;20;1;1
+122354;Opioid  high potency and Antagonist;44.2;17.59;20;1;1
+122514;Opioid  high potency;2.3;14.54303957;94;1;1
+122514;Placebo;11.4;16.56955039;95;1;1
+121911;Opioid  high potency;76;17.59;60;1;1
+121911;Opioid  high potency and NSAID;59;17.59;60;1;1
+122524;Opioid  high potency;40.08474576;20;118;1;1
+122524;Placebo;52.5;20;37;1;1
+122904;Non-opioid Analgesic;43.41139241;17.59;79;1;1
+122904;Opioid  high potency;39.9;17.59;42;1;1
